@@ -4,7 +4,7 @@ win10
 Ubuntu18
 NVIDIA NANO
 ## 流程图
-![avatar](liuchengtu.JPG)
+![](./liuchengtu.JPG)
 ## AI模型
 负责由视频分析得到原始数据
 ### 1-人体关键点模型
